@@ -1,6 +1,6 @@
-### Olá, sou a Thaís L Santos 👋
+## Olá, sou a Thaís L Santos 👋
 
-## Estudante de **Sistemas de Informação** 2/8
+### Estudante de **Sistemas de Informação** 2/8
 
 
 Atualmente sou Trainee em TI
