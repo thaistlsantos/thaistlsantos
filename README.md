@@ -1,4 +1,15 @@
-### Hi there 👋
+### Olá, sou a Thaís L Santos 👋
+
+## Estudante de **Sistemas de Informação** 2/8
+
+
+Atualmente sou Trainee em TI
+
+Estou estudando e aprimorando meus conhecimentos com a linguagem Python
+
+📫 Contato: 
+thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
+
 
 <!--
 **thaistlsantos/thaistlsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
