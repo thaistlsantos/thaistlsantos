@@ -1,6 +1,6 @@
 ## Olá, sou a Thaís L Santos 👋
 
-### Estudante de **Sistemas de Informação** 2/8
+### :mortar_board: Estudante de **Sistemas de Informação** 2/8
 
 
 Atualmente sou Trainee em TI
@@ -17,7 +17,7 @@ Instagram: https://www.instagram.com/tls.consultoriaemti/
 
 Facebook: https://www.facebook.com/tls.consultoriaemti
 
-📫 Contatos: 
+📫 Contato: 
 tls.consultoriaemti@gmail.com 
 
 
