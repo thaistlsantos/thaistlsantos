@@ -5,20 +5,22 @@
 
 Atualmente sou Trainee em TI
 
-Estou estudando e aprimorando meus conhecimentos com a linguagem Python 
+Estou estudando e aprimorando meus conhecimentos com a linguagem Python :computer:
 
-📫 Contatos: 
+:mailbox_with_no_mail: Contatos: 
 thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
 
 
-Criei uma página para compartilhar conhecimento:
+Criei uma página para compartilhar conhecimento: :link:
 
 Instagram: https://www.instagram.com/tls.consultoriaemti/
 
 Facebook: https://www.facebook.com/tls.consultoriaemti
 
-📫 Contato: 
+:mailbox_with_no_mail: Contato: 
 tls.consultoriaemti@gmail.com 
+
+:telephone_receiver: (11) 97153-0753
 
 
 <!--
