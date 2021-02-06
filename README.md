@@ -3,7 +3,7 @@
 ### :mortar_board: Estudante de **Sistemas de Informação** 2/8
 
 
-Atualmente sou Trainee em TI, atuo com Documentação de Software e Análise de Testes - QA
+Atualmente sou Trainee em TI, atuo com Documentação de Software e Análise de Testes - QA  
 Estou estudando e aprimorando meus conhecimentos com a linguagem Python e SQL Server:computer:
 
 :mailbox_with_no_mail: Contatos: 
