@@ -6,6 +6,8 @@
 Atualmente sou Trainee em TI, atuo com Documentação de Software e Análise de Testes - QA  
 Estou estudando e aprimorando meus conhecimentos com as linguagens Python, SQL Server, HTML5 e CSS3:computer:
 
+Perfil em Construção
+
 :mailbox_with_no_mail: Contatos: 
 thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
 
