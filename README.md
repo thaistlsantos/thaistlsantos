@@ -3,7 +3,7 @@
 ### :mortar_board: Estudante de **Sistemas de Informação** 2/8
 
 
-Atualmente sou Trainee em TI, atuo com Documentação de Software e Análise de Testes Manuais - QA  
+Atualmente sou Trainee em TI, atuo em Documentação de Software / Analista de Teste / Dev. Front-End Jr
 Estou estudando e aprimorando meus conhecimentos com as linguagens Python, SQL Server, HTML5 e CSS3 :computer:
 
 Perfil em Construção
