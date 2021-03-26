@@ -5,22 +5,12 @@
 
 Atualmente sou Trainee em TI, atuo em Documentação de Software / Analista de Testes Manuais / Dev. Front-End Jr :computer:
 
-Estou estudando e aprimorando meus conhecimentos com as linguagens:
+Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
-Python, SQL Server, HTML5 e CSS3 :computer:
-
-<img aling= center alt= "Python" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img aling= center alt= "Python" height= "60" width= "60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
-
-
-<img aling= center alt= "HTML" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img aling= center alt= "CSS" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img aling= center alt= "JS" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-
+<img aling= center alt= "Python" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img> 
+<img aling= center alt= "HTML" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img> 
+<img aling= center alt= "CSS" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
+<img aling= center alt= "JS" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
 
 
 :mailbox_with_no_mail: Contatos: 
