@@ -9,24 +9,36 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens:
 
 Python, SQL Server, HTML5 e CSS3 :computer:
 
-Perfil em Construção
+<img aling= center alt= "Python" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 
 :mailbox_with_no_mail: Contatos: 
 
-thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
+thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consultoriaemti@gmail.com
+
+:telephone_receiver: (11) 97153-0753  
 
 <a href = "https://www.linkedin.com/in/thaistlsantos/" target = "_blank">
 <img aling= center alt= "Thais L Santos" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
-Criei uma página para compartilhar conhecimento: :link:  
-Instagram: https://www.instagram.com/tls.consultoriaemti/  
+<a href = "https://www.facebook.com/tls.consultoriaemti" target = "_blank">
+<img aling= center alt= "TLS Consultoria em TI" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
+</a>
+
+<!--
+<a href = "https://www.instagram.com/tls.consultoriaemti/ " target = "_blank">
+<img aling= center alt= "TLS Consultoria em TI" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
+</a>
+-->
+
+  
+Instagram:  
 Facebook: https://www.facebook.com/tls.consultoriaemti  
-:mailbox_with_no_mail: Contato: 
-tls.consultoriaemti@gmail.com   
-:telephone_receiver: (11) 97153-0753  
+
+
 
 
 <!--
 
--->
+
