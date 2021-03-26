@@ -3,7 +3,15 @@
 ### Estudante do curso de **Sistemas de Informação** 2/8 :mortar_board: na <a href = "https://www.impacta.edu.br" target = "_blank"> Faculdade Impacta de Tecnologia </a>
 
 
-Atualmente sou Trainee, atuo como Analista em Documentação de Software / Analista de Testes Manuais / Desenvolvimento Front-End Jr :computer:
+Atualmente sou Trainee em Analista em Documentação de Software / Analista de Testes Manuais / Desenvolvimento Front-End Jr :computer:
+Atuo em: 
+- Documentação de software: descritiva das funcionalidades de telas do sistema (desenvolvido em APEX);
+- Criação de templates, manuais descritivos com capturas de telas;
+- Desenho e análise de processos (BPM), ferramenta Bizagi Modeler;
+- Execução de roteiros, requisitos e cenários de testes manuais (inserção de massa de dados em Oracle Retail e consultas no PLSQL Developer);
+- MantisBT: acompanhamento da execução/solução de testes e resolução de bugs.
+- Versionamento com Bitbucket e SourceTree
+- Membro de Projeto - Implementação da ferramenta Project
 
 Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
@@ -14,7 +22,6 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 <img aling= center alt= "CSS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
 <img aling= center alt= "JS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
 <img aling= center alt= "Bootstrap" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></img>
-
 
 
 :mailbox_with_no_mail: :telephone_receiver:   Contatos: 
