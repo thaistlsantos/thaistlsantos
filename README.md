@@ -24,9 +24,10 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
 <!--
 ![Status GitHub Thaistlsantos](https://github-readme-stats.vercel.app/api?username=thaistlsantos&show_icons=true&theme=radical)
--->
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thaistlsantos&layout=compact)]
 
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thaistlsantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thaistlsantos)](https://github.com/thaistlsantos/github-readme-stats)
 
 
 :mailbox_with_no_mail: :telephone_receiver:   Contatos: 
