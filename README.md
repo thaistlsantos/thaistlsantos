@@ -23,7 +23,8 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 <img aling= center alt= "Bootstrap" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></img>
 
 
-[! [Estatísticas GitHub de Thaistlsantos] (https://github-readme-stats.vercel.app/api ? Username = thaistlsantos )] 
+![Status GitHub Thaistlsantos](https://github-readme-stats.vercel.app/api?username=thaistlsantos&show_icons=true&theme=radical)
+
 
 
 :mailbox_with_no_mail: :telephone_receiver:   Contatos: 
