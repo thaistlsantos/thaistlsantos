@@ -16,7 +16,7 @@ Perfil em Construção
 thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
 
 <a href = "https://www.linkedin.com/in/thaistlsantos/" target = "_blank">
-<img aling= center alt= "Thais L Santos" height= "100" width= "100" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+<img aling= center alt= "Thais L Santos" height= "80" width= "80" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
 Criei uma página para compartilhar conhecimento: :link:  
