@@ -1,6 +1,7 @@
 ## Olá, sou Thaís de Lima Santos 👋
 
 ### :mortar_board: Estudante de **Sistemas de Informação** 2/8
+### <a href = "https://www.impacta.edu.br" target = "_blank"> FACULDADE IMPACTA DE TECNOLOGIA </a>
 
 
 Atualmente sou Trainee, atuo como Analista em Documentação de Software / Analista de Testes Manuais / Desenvolvimento Front-End Jr :computer:
@@ -18,7 +19,6 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
 
 :mailbox_with_no_mail: Contatos: 
-
 thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consultoriaemti@gmail.com
 
 :telephone_receiver: (11) 97153-0753  
