@@ -1,4 +1,4 @@
-## Olá, sou a Thaís L Santos 👋
+## Olá, sou a Thaís de Lima Santos 👋
 
 ### :mortar_board: Estudante de **Sistemas de Informação** 2/8
 
@@ -15,8 +15,9 @@ Perfil em Construção
 
 thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
 
-<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg">
-
+<a href = "https://www.linkedin.com/in/thaistlsantos/" target = "_blank">
+<img aling= center alt= "Thais L Santos" height= "50" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg">
+</a>
 
 Criei uma página para compartilhar conhecimento: :link:  
 Instagram: https://www.instagram.com/tls.consultoriaemti/  
