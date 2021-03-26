@@ -3,13 +3,18 @@
 ### :mortar_board: Estudante de **Sistemas de Informação** 2/8
 
 
-Atualmente sou Trainee em TI, atuo com Documentação de Software e Análise de Testes Manuais - QA  
-Estou estudando e aprimorando meus conhecimentos com as linguagens Python, SQL Server, HTML5 e CSS3 :computer:
+Atualmente sou Trainee em TI, atuo com Documentação de Software e Análise de Testes Manuais 
+Estou estudando e aprimorando meus conhecimentos com as linguagens:
+
+ Python, SQL Server, HTML5 e CSS3 :computer:
 
 Perfil em Construção
 
 :mailbox_with_no_mail: Contatos: 
+
 thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
+
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg">
 
 
 Criei uma página para compartilhar conhecimento: :link:  
