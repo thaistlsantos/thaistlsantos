@@ -14,7 +14,7 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 <img aling= center alt= "HTML" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
 <img aling= center alt= "CSS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
 <img aling= center alt= "JS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
-<img aling= center alt= "JS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></img>
+<img aling= center alt= "Bootstrap" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></img>
 
 
 
@@ -35,8 +35,9 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consult
 <img aling= center alt= "TLS Consultoria em TI" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
 </a>
 
-<!--
 <a href = "https://www.instagram.com/tls.consultoriaemti/ " target = "_blank">
-<img aling= center alt= "TLS Consultoria em TI" height= "60" width= "60" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
+<img aling= center alt= "TLS Consultoria em TI" height= "60" width= "50" src= "insta.jpeg">
 </a>
+
+<!--
 -->
