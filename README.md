@@ -8,13 +8,13 @@ Atualmente sou Trainee, atuo como Analista em Documentação de Software / Anali
 
 Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
-<img aling= center alt= "Python" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img aling= center alt= "SQL" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-<img aling= center alt= "VSCode" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-<img aling= center alt= "HTML" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img aling= center alt= "CSS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img aling= center alt= "JS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img aling= center alt= "Bootstrap" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+<img aling= center alt= "Python" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
+<img aling= center alt= "SQL" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></img>
+<img aling= center alt= "VSCode" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></img>
+<img aling= center alt= "HTML" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
+<img aling= center alt= "CSS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
+<img aling= center alt= "JS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
+<img aling= center alt= "Bootstrap" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></img>
 
 
 
@@ -39,7 +39,7 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consult
 </a>
 
 <a href = "https://api.whatsapp.com/send?phone=5511971530753&text=Ol%C3%A1%2C%20tudo%20bem%3F" target = "_blank">
-<img aling= center alt= "Whatsapp" height= "50" width= "50" src= "https://i.pinimg.com/originals/d9/d9/7d/d9d97d48264770f85d35c208f279152c.png">
+<img aling= center alt= "Whatsapp" height= "53" width= "53" src= "https://i.pinimg.com/originals/d9/d9/7d/d9d97d48264770f85d35c208f279152c.png">
 </a>
 
 <!--
