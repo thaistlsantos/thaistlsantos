@@ -36,7 +36,7 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consult
 </a>
 
 <a href = "https://www.instagram.com/tls.consultoriaemti/ " target = "_blank">
-<img aling= center alt= "TLS Consultoria em TI" height= "60" width= "50" src= "insta.jpeg">
+<img aling= center alt= "TLS Consultoria em TI" height= "60" width= "50" src= "https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
 </a>
 
 <!--
