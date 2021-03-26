@@ -39,7 +39,7 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consult
 </a>
 
 <a href = "https://api.whatsapp.com/send?phone=5511971530753&text=Ol%C3%A1%2C%20tudo%20bem%3F" target = "_blank">
-<img aling= center alt= "Whatsapp" height= "53" width= "53" src= "https://i.pinimg.com/originals/d9/d9/7d/d9d97d48264770f85d35c208f279152c.png">
+<img aling= center alt= "Whatsapp" height= "50" width= "50" src= "https://d1cb96qxozavf7.cloudfront.net/news/png-clipart-whatsapp-icon-logo-whatsapp-logo-whatsapp-logo-text-trademark.png">
 </a>
 
 <!--
