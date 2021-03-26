@@ -3,8 +3,7 @@
 ### Estudante do curso de **Sistemas de Informação** 2/8 :mortar_board: na <a href = "https://www.impacta.edu.br" target = "_blank"> Faculdade Impacta de Tecnologia </a>
 
 
-Atualmente sou Trainee em Analista em Documentação de Software / Analista de Testes Manuais / Desenvolvimento Front-End Jr :computer:
-Atuo em: 
+Atualmente sou Trainee em Analista em Documentação de Software / Analista de Testes Manuais / Desenvolvimento Front-End Jr. :computer: Realizo atividades em: 
 - Documentação de software: descritiva das funcionalidades de telas do sistema (desenvolvido em APEX);
 - Criação de templates, manuais descritivos com capturas de telas;
 - Desenho e análise de processos (BPM), ferramenta Bizagi Modeler;
