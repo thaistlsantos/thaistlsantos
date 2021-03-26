@@ -1,7 +1,7 @@
 ## Olá, sou Thaís de Lima Santos 👋
 
-### :mortar_board: Estudante de **Sistemas de Informação** 2/8
-### <a href = "https://www.impacta.edu.br" target = "_blank"> FACULDADE IMPACTA DE TECNOLOGIA </a>
+### Estudante de **Sistemas de Informação** 2/8 :mortar_board: 
+##### <a href = "https://www.impacta.edu.br" target = "_blank"> FACULDADE IMPACTA DE TECNOLOGIA </a>
 
 
 Atualmente sou Trainee, atuo como Analista em Documentação de Software / Analista de Testes Manuais / Desenvolvimento Front-End Jr :computer:
