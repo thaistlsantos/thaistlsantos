@@ -18,26 +18,29 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
 
 
-:mailbox_with_no_mail: Contatos: 
+:mailbox_with_no_mail: :telephone_receiver:   Contatos: 
 thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consultoriaemti@gmail.com
 
-:telephone_receiver: (11) 97153-0753  
+
 
 <a href = "https://www.linkedin.com/in/thaistlsantos/" target = "_blank">
-<img aling= center alt= "Thais L Santos" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+<img aling= center alt= "Thais L Santos" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></img>
 </a>
 
 <a href = "https://twitter.com/ThaisTlsantos" target = "_blank">
-<img aling= center alt= "@thaistlsantos" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
+<img aling= center alt= "@thaistlsantos" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></img>
 </a>
 
 <a href = "https://www.facebook.com/tls.consultoriaemti" target = "_blank">
-<img aling= center alt= "TLS Consultoria em TI" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
+<img aling= center alt= "TLS Consultoria em TI" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"></img>
 </a>
 
 <a href = "https://www.instagram.com/tls.consultoriaemti/ " target = "_blank">
-<img aling= center alt= "TLS Consultoria em TI" height= "50" width= "50" src= "https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
+<img aling= center alt= "TLS Consultoria em TI" height= "50" width= "50" src= "https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png"></img>
 </a>
+
+<img aling= center alt= "Whatsapp" height= "50" width= "50" src= "https://i.pinimg.com/originals/d9/d9/7d/d9d97d48264770f85d35c208f279152c.png"> (11) 97153-0753 </img>
+
 
 <!--
 -->
