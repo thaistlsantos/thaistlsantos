@@ -3,7 +3,8 @@
 ### Estudante do curso de **Sistemas de Informação** 2/8 :mortar_board: na <a href = "https://www.impacta.edu.br" target = "_blank"> Faculdade Impacta de Tecnologia </a>
 
 
-Analista de Documentação e Processos Jr | Analista de Testes Jr | Customer Success | Dev. Front-End Jr  :computer: Realizo atividades em:
+ Analista de Testes Jr  :computer: Realizo atividades em:
+ 
 - Documentação de software: descritiva das funcionalidades de telas do sistema;
 - Criação de templates, manuais descritivos com capturas de telas;
 - Criação e análise de processos (BPM), ferramenta Bizagi Modeler;
