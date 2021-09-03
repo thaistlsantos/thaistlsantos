@@ -7,11 +7,8 @@
  
 - Documentação de software: descritiva das funcionalidades de telas do sistema;
 - Criação de templates, manuais descritivos com capturas de telas;
-- Criação e análise de processos (BPM), ferramenta Bizagi Modeler;
 - Execução de roteiros, requisitos e cenários de testes manuais;
-- MantisBT: acompanhamento da execução/solução de testes e resolução de bugs;
-- Versionamento com Bitbucket e SourceTre;
-- Membro de Projeto - Implementação da ferramenta Project.
+- Versionamento com: (Github e Githubdesktop / Bitbucket e SourceTre)
 
 Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
