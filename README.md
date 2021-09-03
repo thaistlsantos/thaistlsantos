@@ -3,12 +3,13 @@
 ### Estudante do curso de **Sistemas de Informação** 2/8 :mortar_board: na <a href = "https://www.impacta.edu.br" target = "_blank"> Faculdade Impacta de Tecnologia </a>
 
 
- Analista de Testes Jr  :computer: Realizo atividades em:
- 
+Analista de Testes | QA - Quality Assurance | Tester :computer: 
+
+- Realização de testes (manuais, funcionais e exploratórios);
+- Execução de roteiros, requisitos e cenários de testes manuais;
 - Documentação de software: descritiva das funcionalidades de telas do sistema;
 - Criação de templates, manuais descritivos com capturas de telas;
-- Execução de roteiros, requisitos e cenários de testes manuais;
-- Versionamento com: (Github e Githubdesktop / Bitbucket e SourceTre)
+- Versionamento com: (Github e Githubdesktop / Bitbucket e SourceTre).
 
 Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
