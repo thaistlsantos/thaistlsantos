@@ -9,7 +9,7 @@ Analista de Testes | QA - Quality Assurance | Tester :computer:
 - Execução de roteiros, requisitos e cenários de testes manuais;
 - Documentação de software: descritiva das funcionalidades de telas do sistema;
 - Criação de templates, manuais descritivos com capturas de telas;
-- Versionamento com: (Github e Githubdesktop / Bitbucket e SourceTre).
+- Versionamento com: (Github Desktop / Bitbucket e SourceTre).
 
 Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
