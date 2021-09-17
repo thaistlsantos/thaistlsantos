@@ -28,8 +28,11 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 -->
 
 
+
+
 :mailbox_with_no_mail: :telephone_receiver:   Contatos: 
 thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consultoriaemti@gmail.com
+
 
 
 
