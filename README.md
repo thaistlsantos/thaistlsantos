@@ -58,6 +58,6 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consult
 
 <!--
 -->
-<p align="center"> Obrigada pela visita !!! </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p aling = "center"> Obrigada pela visita !!! </p>
+<p aling = "center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
