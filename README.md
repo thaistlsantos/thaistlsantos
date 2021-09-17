@@ -32,6 +32,7 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consultoriaemti@gmail.com
 
 
+
 <a href = "https://www.linkedin.com/in/thaistlsantos/" target = "_blank">
 <img aling= center alt= "Thais L Santos" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
@@ -58,6 +59,7 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consult
 
 <!--
 -->
+###
 <p aling = "center"> Obrigada pela visita !!! </p>
 <p aling = "center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
