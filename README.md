@@ -44,9 +44,6 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consult
 <img aling= center alt= "@thaistlsantos" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
 </a>
 
-<a href = "https://www.facebook.com/tls.consultoriaemti" target = "_blank">
-<img aling= center alt= "TLS Consultoria em TI" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
-</a>
 
 <a href = "https://www.instagram.com/tls.consultoriaemti/ " target = "_blank">
 <img aling= center alt= "TLS Consultoria em TI" height= "50" width= "50" src= "https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
