@@ -50,9 +50,6 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consult
 <img aling= center alt= "@thaistlsantos" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
 </a>
 
-<a href = "https://www.facebook.com/tls.consultoriaemti" target = "_blank">
-<img aling= center alt= "TLS Consultoria em TI" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
-</a>
 
 
 <a href = "https://api.whatsapp.com/send?phone=5511971530753&text=Ol%C3%A1%2C%20tudo%20bem%3F" target = "_blank">
