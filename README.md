@@ -1,14 +1,20 @@
-## Olá, sou Thaís de Lima Santos 👋
+## Olá, que prazer ter você aqui, sou Thaís de Lima Santos 👋
 
-### Estudante do curso de **Sistemas de Informação** 3/8 :mortar_board: na <a href = "https://www.impacta.edu.br" target = "_blank"> Faculdade Impacta de Tecnologia </a>
+### Estudante do curso de **Sistemas de Informação** 4/8 :mortar_board: na <a href = "https://www.impacta.edu.br" target = "_blank"> Faculdade Impacta de Tecnologia </a>
 
 
-Analista de Testes | QA - Quality Assurance | Tester :computer: 
+### :computer: Analista de Testes | QA - Quality Assurance | Tester :computer: 
 
-- Realização de testes (manuais, funcionais e exploratórios);
-- Criação de roteiros, requisitos e cenários de testes;
-- Documentação de software: descritiva das funcionalidades de telas do sistema;
-- Administração de sprints semanais e mensais
+- Desenvolvimento em cenários e roteiros de testes;
+- Preparação de massa para execução dos testes;
+- Realização de testes (manuais, funcionais, exploratóriose e aceitação)
+
+- Apontamento de melhorias - QA
+- Apontamento para correção de Bugs - QA
+- Criação de evidências para status report do projeto - QA
+- Organização e Priorização de Testes (TO DO) - QA
+
+- Programação Python
 - Versionamento com: GitHub Desktop 
 
 Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
@@ -48,9 +54,6 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br / tls.consult
 <img aling= center alt= "TLS Consultoria em TI" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
 </a>
 
-<a href = "https://www.instagram.com/tls.consultoriaemti/ " target = "_blank">
-<img aling= center alt= "TLS Consultoria em TI" height= "50" width= "50" src= "https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
-</a>
 
 <a href = "https://api.whatsapp.com/send?phone=5511971530753&text=Ol%C3%A1%2C%20tudo%20bem%3F" target = "_blank">
 <img aling= center alt= "Whatsapp" height= "52" width= "52" src= "https://i.pinimg.com/originals/d9/d9/7d/d9d97d48264770f85d35c208f279152c.png">
