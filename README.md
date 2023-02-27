@@ -45,6 +45,7 @@ Conhecimentos com as linguagens: :computer:
 <img aling= center alt= "Github" height= "40" width= "40" src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></img>
 <img aling= center alt= "Bitbucket" height= "40" width= "40" src= "https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg"></img>
 <img aling= center alt= "C#" height= "40" width= "40" src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></img>
+<img aling= center alt= "Cypress#" height= "40" width= "40" src= ""></img>
 <img aling= center alt= "Selenium" height= "40" width= "40" src= "https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"></img>
 <img aling= center alt= "Python" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
 <img aling= center alt= "SQL" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></img>
