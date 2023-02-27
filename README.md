@@ -3,7 +3,7 @@
 ### Estudante do curso de **Sistemas de Informação** 6/8 :mortar_board: na <a href = "https://www.impacta.edu.br" target = "_blank"> Faculdade Impacta de Tecnologia </a>
 
 
-### :computer: Analista de Testes | QA - Quality Assurance | Tester :computer: 
+### :computer: Analista de Testes Pleno | Automatizadora de Testes | Tester | Analista de Qualidade de Software | QA - Quality Assurance :computer: 
 
 - Automação de testes com C# e Selenium Webdriver
 - Automação de testes com Cypress
