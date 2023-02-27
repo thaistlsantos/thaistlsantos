@@ -5,17 +5,37 @@
 
 ### :computer: Analista de Testes | QA - Quality Assurance | Tester :computer: 
 
+- Automação de testes com C# e Selenium Webdriver
+- Automação de testes com Cypress
+- Coleta e descritivas de evidências de testes
 - Desenvolvimento em cenários e roteiros de testes;
-- Preparação de massa para execução dos testes;
+- Debug e logs de testes
+- Gestão de erros
+- Levantamento das massas de testes manuais e automatizados
+- Manuseio e controle de atividades em boards via Azure Devops
+- Plataformas Visual Studio Code e Visual Studio 2022 para programação
+- Prevenção de bugs com testes assistidos (manuseio de testes durante o desenvolvimento)
 - Realização de testes (manuais, funcionais, exploratóriose e aceitação)
+- Versionamento com: Git e GitHub Desktop
 
 - Apontamento de melhorias - QA
 - Apontamento para correção de Bugs - QA
 - Criação de evidências para status report do projeto - QA
 - Organização e Priorização de Testes (TO DO) - QA
 
-- Programação Python
-- Versionamento com: GitHub Desktop 
+
+
+
+#### Projetos:
+
+##### Banco BTG Pactual
+- Migração para o EKS: plataforma BTG Pactual Portal Fund Service
+- Envio de requisições de Evento de passivo > Doação com usufruto
+##### Grupo Claro Brasil
+- Atuo nos projetos: Prezão - Pré-Pago, Recargas e Projetos internos
+- Projeto Mars: Migração de clientes Oi para Claro
+
+
 
 Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
