@@ -6,8 +6,8 @@
 ### :computer: Analista de Testes Pleno | Automatizadora de Testes | Tester
 ### :computer: Analista de Qualidade de Software | QA - Quality Assurance  
 
-- Automação de testes com C# e Selenium Webdriver
-- Automação de testes com Cypress
+_ Automação de testes com C# e Selenium Webdriver
+_ Automação de testes com Cypress
 - Coleta e descritivas de evidências de testes
 - Desenvolvimento em cenários e roteiros de testes;
 - Debug e logs de testes
@@ -23,9 +23,6 @@
 - Apontamento para correção de Bugs - QA
 - Criação de evidências para status report do projeto - QA
 - Organização e Priorização de Testes (TO DO) - QA
-
-
-
 
 #### Projetos:
 
