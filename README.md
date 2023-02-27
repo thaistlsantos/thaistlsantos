@@ -39,11 +39,11 @@
 
 Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
-<img aling= center alt= "Python" height= "30" width= "30" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
-<img aling= center alt= "SQL" height= "30" width= "30" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></img>
-<img aling= center alt= "VSCode" height= "30" width= "30" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></img>
-<img aling= center alt= "HTML" height= "30" width= "30" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
-<img aling= center alt= "CSS" height= "30" width= "30" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
+<img aling= center alt= "Python" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
+<img aling= center alt= "SQL" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></img>
+<img aling= center alt= "VSCode" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></img>
+<img aling= center alt= "HTML" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
+<img aling= center alt= "CSS" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
 
 <!--
 ![Status GitHub Thaistlsantos](https://github-readme-stats.vercel.app/api?username=thaistlsantos&show_icons=true&theme=radical)
