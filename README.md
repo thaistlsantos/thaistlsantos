@@ -16,7 +16,7 @@
 - Plataformas Visual Studio Code e Visual Studio 2022 para programação
 - Prevenção de bugs com testes assistidos (manuseio de testes durante o desenvolvimento)
 - Realização de testes (manuais, funcionais, exploratóriose e aceitação)
-- Versionamento com: Git e GitHub Desktop
+- Versionamento com: Git, GitHub Desktop, Bitbucket
 
 - Apontamento de melhorias - QA
 - Apontamento para correção de Bugs - QA
@@ -38,6 +38,9 @@
 
 
 Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
+
+
+<img aling= center alt= "Github" height= "40" width= "40" src= "https://icons8.com.br/icon/12599/github"></img>
 
 <img aling= center alt= "Python" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
 <img aling= center alt= "SQL" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></img>
