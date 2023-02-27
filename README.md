@@ -54,12 +54,20 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
 
 
-:mailbox_with_no_mail: :telephone_receiver:   Contatos: 
+:mailbox_with_no_mail: Contatos:  
 thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
+:telephone_receiver:  11 97153-0753
+
+
+<!--
+-->
+###
+<p aling = "center"> Obrigada pela visita !!! </p>
+<p aling = "center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 
 
-
+<p aling = "center"> Redes sociais: </p>
 <a href = "https://www.linkedin.com/in/thaistlsantos/" target = "_blank">
 <img aling= center alt= "Thais L Santos" height= "30" width= "30" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
@@ -68,8 +76,6 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
 <img aling= center alt= "@thaistlsantos" height= "30" width= "30" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
 </a>
 
-
-
 <a href = "https://api.whatsapp.com/send?phone=5511971530753&text=Ol%C3%A1%2C%20tudo%20bem%3F" target = "_blank">
 <img aling= center alt= "Whatsapp" height= "32" width= "32" src= "https://i.pinimg.com/originals/d9/d9/7d/d9d97d48264770f85d35c208f279152c.png">
 </a>
@@ -77,10 +83,3 @@ thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
 <a href = "https://www.instagram.com/thaistlsantos/ " target = "_blank">
 <img aling= center alt= "Thais L Santos" height= "30" width= "30" src= "https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png">
 </a>
-
-<!--
--->
-###
-<p aling = "center"> Obrigada pela visita !!! </p>
-<p aling = "center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
-
