@@ -37,8 +37,6 @@
 
 Conhecimentos com as linguagens: :computer:
 
-
-
 <img aling= center alt= "Azure" height= "40" width= "40" src= "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"></img>
 <img aling= center alt= "Github" height= "40" width= "40" src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></img>
 <img aling= center alt= "Bitbucket" height= "40" width= "40" src= "https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg"></img>
