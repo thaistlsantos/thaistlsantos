@@ -39,7 +39,7 @@
 
 Conhecimentos com as linguagens: :computer:
 
-<img image.png> </img>
+<img src= "https://icons8.com/icon/12599/github"> </img>
 <img aling= center alt= "Github" height= "40" width= "40" src= "image.png"></img>
 
 <img aling= center alt= "Python" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
