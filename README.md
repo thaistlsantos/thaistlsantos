@@ -53,10 +53,11 @@ Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
 
 
 
-
+<p>
 :mailbox_with_no_mail: Contatos:  
-thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br
-:telephone_receiver:  11 97153-0753
+thais_tlsan@hotmail.com / thais.lima@aluno.faculdadeimpacta.com.br</p>
+
+:telephone_receiver:  11 97153-0753</p>
 
 
 <!--
