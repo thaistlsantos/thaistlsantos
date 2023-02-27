@@ -48,7 +48,7 @@ Conhecimentos com as linguagens: :computer:
 <img aling= center alt= "HTML" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
 <img aling= center alt= "CSS" height= "40" width= "40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
 
-<!--
+////<!--
 ![Status GitHub Thaistlsantos](https://github-readme-stats.vercel.app/api?username=thaistlsantos&show_icons=true&theme=radical)
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thaistlsantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
