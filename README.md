@@ -1,6 +1,6 @@
 ## Olá, que prazer ter você aqui, sou Thaís de Lima Santos 👋
 
-### Estudante do curso de **Sistemas de Informação** 6/8 :mortar_board: na <a href = "https://www.impacta.edu.br" target = "_blank"> Faculdade Impacta de Tecnologia </a>
+### Formada no curso de **Sistemas de Informação** :mortar_board: na <a href = "https://www.impacta.edu.br" target = "_blank"> Faculdade Impacta de Tecnologia </a>
 
 
 ### :computer: Analista de Testes Pleno | Automatizadora de Testes | Tester
